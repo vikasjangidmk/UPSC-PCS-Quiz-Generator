@@ -85,6 +85,9 @@ GROQ_API_KEY=your_groq_api_key_here
 streamlit run app.py
 ```
 
+6. Deployment Link
+https://vikasj.streamlit.app/
+
 ### Project Structure
 ```bash
 ├── main.py                 # Main Streamlit application
